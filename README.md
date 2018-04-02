@@ -11,6 +11,14 @@
 ![](https://github.com/nniawwainn/hw6/blob/master/4.PNG)
 ## Задание 5
 ![](https://github.com/nniawwainn/hw6/blob/master/5.PNG)
+*Wander* - travel aimlessly, without a specific goal.
+Когда это слово используется с дополнением, то оно приобретает оттенок **«to travel about, on, or through».** Например, «Admittedly, 200 years of	*wandering	the earth* in search of vengeance»(из BNC). Мы видим, что оно используется с дополнениями каких-то пространств. Если же глагол в предложении будет выступать причастием, то на месте дополнения будут лица или предметы, способные выполнять данные действия : we consider the impact made by the *wandering scholars.* Но таких примеров меньше.
+*Meander* -take your time, to move slowly and in a roundabout way. 
+Когда используется с дополнением, приобретает оттенок **«Surveying».** Соответственно дополнениями выступают чаще всего слова, обозначающие труднопроходимые места. 
+We passed close by Gateholm Island before *meandering past craggy rockfaces*.
+Если же глагол в предложении выступает причастием, то дополнения это слова, обозначающие «простирающуюся» местность:  …rather like the levees of a	*meandering	river* being built up above the level of…
+**Street and boulevard** могут употребляться с обоими глаголами, так как они обозначают «простирающуюся» местность, по которой можно скитаться, путешествовать, заблудиться. 
+
 ## Задание 6
 ![](https://github.com/nniawwainn/hw6/blob/master/restoration%2061.PNG)
 ![](https://github.com/nniawwainn/hw6/blob/master/restoration62.PNG)
